@@ -74,3 +74,97 @@ U~AB~ - napětí mezi body A, B
 - **vodič** - elektrostatická indukce
 - **izolant** - 
 
+
+
+# Elektrický proud
+
+- dohodnutý směr proudu: od `+` k `-`
+  $$
+  I = \frac{Q}{T}
+  $$
+
+  $$
+  [I] = A
+  $$
+
+- 
+
+# Elektrický odpor
+
+- *R*
+
+- jednotka *OHM* - $\Omega$
+
+- odpor vodiče závisí na
+
+  - materiálu - měrný odpor (rezistivita) - $\rho,  [\rho] = \Omega * m$
+
+  - úměrně na délce
+
+  - nepřímo úměrně na obsahu průřezu
+
+  - na teplotě - u kovového vodiče roste odpor s teplotou
+    $$
+    R = \rho * \frac{l}{S}
+    $$
+
+# Ohmův zákon pro část obvodu
+
+## Sériové
+
+$$
+I = \frac{U}{R}
+$$
+
+```
+----[  ]----[  ]----
+	 R1		 R2
+```
+
+$$
+R = R_1 + R_2
+$$
+
+## Paralelní
+
+```
+   ---[  ]---
+---|		 |---
+   ---[  ]---
+```
+
+$$
+\frac{1}{R} = \frac{1}{R_1} + \frac{1}{R_2}
+$$
+
+
+
+Elektromotorické napětí - $U_e$ - napětí naprázdno
+
+Svorkové napětí $U$ - na svorkách zatíženého zdroje
+
+Vnitřní odpor:
+
+```
+------ +||- ---[   ]----
+```
+
+```
++---------||----[   ]---+
+|						|
+|						|
+|						|
++---------[    ]--------+
+			R - vnější odpor
+```
+
+$$
+I = \frac{U_e}{R + R_1}
+$$
+
+Př
+
+Baterie má naprázdno napětí 4,5 V. Když k ní připojíme spotřebič a teče proud 0,1 A, klesne napětí na 4 V. Jaký je vnitřní odpor baterie?
+
+
+

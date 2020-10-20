@@ -33,7 +33,7 @@ Mohou se měnit na buňky tukové a buňky pigmentové.
 
 **Histocity** jsou u cév, pohlcují jiné částečky (**fagocytóza**).
 
-Buňky žírné, **heparin**, zabraňují srážení krve.
+**Buňky žírné**, **heparin**, zabraňují srážení krve.
 
 - řídké vazivo - hodně mezibuněčné hmoty
 - tukové vazivo - tuk
@@ -45,7 +45,7 @@ Buňky žírné, **heparin**, zabraňují srážení krve.
 - bílá nebo nažloutlá
 - okrouhlé buňky
 - jednotlivé / více (uloženy v komůrkách)
-- sklovitá, vazivová, elastická
+- **sklovitá, vazivová, elastická**
 - nehojí se řezné rány
 - nejsou tam cévy
 
@@ -64,4 +64,3 @@ Buňky žírné, **heparin**, zabraňují srážení krve.
 
 - neurony
 - neuroglie - vyživují neurony a odvádějí odpadní látky
-- 

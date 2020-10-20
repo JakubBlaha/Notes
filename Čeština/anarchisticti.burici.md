@@ -45,3 +45,22 @@
 
 ### Karel Toman (19. - 20. st.)
 
+
+
+### Viktor Dyk
+
+- **pamflety** - kritizoval společnost
+- předpověděl si smrt ve vlnách (*Devátá vlna*)
+- píše o národnostní situaci
+
+**Díla**
+
+- *Krysař*
+
+### Stanislav Kostka Neumann
+
+- revue *Nový kult*
+
+**Díla**
+
+- Kniha lesů, vod a strání
